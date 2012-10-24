@@ -1,0 +1,92 @@
+Contrato matador
+
+Fecha de revisión: 22/10/2012
+
+Entre nosotros [nombre de la compañia]
+y usted [nombre del cliente]
+
+Resumen:
+
+Siempre daremos lo mejor de nosotros para satisfacer sus necesidades y alcanzar sus objetivos, pero a vesces es mejor contar con algunas cosas por escrito para que ambos sepamos qué es que, quién tiene que hacer que y que sucede si algo sale mal. En este contrato no encontrará términos legales complicados o largas e ilegibles frases. No tenemos ningún deseo de hacerlo firmar algo de lo que luego se arrepienta. Queremos lo mejor por la seguridad de ambas partes, ahora y en el futuro.
+
+En resumen
+
+Usted ([nombre del cliente]) nos contrata a nosotros ([nombre de la compañia]) ubicados en [dirección] para [diseñar y desarrollar un sitio web] por el precio total estimado de [total] como ha sido diagramado en previos correos. Por supuesto que es algo más complicado que esto, ya nos explayaremos.
+
+Qué es lo que ambas partes acuerdan de hacer?
+
+Como nuestro cliente, tienes el poder y la habilidad de entrar en este contrato en representación de su compañia u organización. Aceptas proveernos de todo lo que necesitemos para completar el proyecto (incluyendo textos, imágenes y otra información), como y cuando lo requiramos y en el formato que te solicitemos. Aceptas revisar nuestro trabajo, también proveer devoluciones y aprobaciones a tiempo. Las fechas límites funcionan en ambos sentidos, y también estarás comprometido por estas fechas que definiremos juntos. También aceptas ajustarte al cronograma de pagos definido al final de este contrato.
+
+Nosotros contamos con la experiencia y habilidad para realizar los servicios que necesitas de nosotros, y los llevaremos a cabo de manera profesional y acorde a los tiempos. Durante el proceso nos entregaremos para poder alcanzar las fechas límites que definamos, pero no podemos hacernos responsables por llegadas tarde a almorzar o a una fecha si has provisto los materiales fuera de tiempo o no has aprobado o firmado nuestro trabajo para cada etapa. Además, nosotros mantendremos la confidencialidad de toda la información que nos sea entregada.
+
+Profundizando
+
+Diseño
+
+Crearemos diseños para la imagen general, la disposición del contenido y la funcionalidad de tu sitio web. Este contrato incluye un diseño principal, y la oportunidad de que puedas realizar dos sesiones de revisiones. Si pasadas estas dos revisiones el diseño aun no te conforma, tendrás que pagarnos por todo el trabajo que hayamos producido hasta el momento y podrás tanto cancelar el contrato o continuar confiándonos las siguientes revisiones en base a una renta a tasa diaria definida en nuestra estimación original.
+
+Plantillas y disposición de contenido con HTML5 y CSS
+
+Si el proyecto incluye marcado HTML y plantillas CSS, se desarrollarán usando los estándares HTML5 y CSS2.1 y CSS3 para estilos. El espectro de navegadores web y dispositivos para el acceso a internet cambia regularmente y nuestro aprendizaje es el de pensar hacia adelante, no hacia atrás. Con esto en mente, realizaremos testeos de todo el HTML y CSS en las versiones actuales de los navegadores más importantes para asegurarnos que hemos aprovechado lo mejor de ellos, Para los usuarios con navegadores o dispositivos más viejos, experimentarán un diseño que es apropiado para las capacidades de su software. Para aquellos que usan Microsoft Internet Explorer 6, esto implica un diseño orientado a lo estríctamente tipográfico, no a la disposición del contenido. También testearemos que funcione correctamente en Apple IPAD.
+
+No testearemos en navegadores viejos o abandonados, como Microsoft Internet Explorer 5 o 5.5 para Windows o Mac, versiones anteriores de Apple Safari, Mozilla Firefox u Opera, a no ser que esté especificado. Si necesitas que consideremos estos navegadores viejos, te cobraremos adicionales en una base diaria en base a nuestras estimaciones originales por todo trabajo adicional de diseño, desarrollo y testeo.
+
+Contenido de texto
+
+Hemos escrito un best-seller pero no podemos ser responsables por escribir o ingresar cada texto a no ser que lo hayamos especificado en la estimación original. Estaremos contentos de ayudarte, y además de la estimación te cobraremos en base [precio] por hora por escribir contenido o transcribir texto.
+
+Fotografías
+
+Tu proveerás las fotografías en formato digital o en papel. Si decides comprar fotografías de terceros podemos suegerirte algunos proveedores. Cada tiempo que invirtamos en buscar la imagen apropiada se cobrará a una tasa de [precio] por hora.
+
+Cambios y revisiones
+
+Sabemos por experiencia que los contratos con precios fijos raramente son beneficiales para vos, ya que tienden a acotar tu proyecto a la primer idea que apareción sobre como algo se ve o como debería funcionar. Nosotros no queremos limitar ni tus opciones ni tus oportunidades de cambiar de parecer.
+
+Los precios de estimación/presupuesto al principio de este documento están basados en la cantidad de días que estimamos nos tomará alcanzar todo lo que te hemos dicho que realizaremos. Si realmente quieres cambiar de parecer, agregar páginas o plantillas o incluso agregar nueva funcionalidad, eso no será un problema. Te cobraremos cargos adicionales en basea  una tasa diaria definida en la estimación que te entregamos. Durante el proceso puede que te solicitemos que pongas lo solicitado en papel para que pudamos llevar registro de los cambios.
+
+Soporte técnico
+
+Puede que ya cuentes con un proveedor de espacio en internet profesional, o incluso lo estés gestionando dentro de tu organización; si este es el caso, excelente. Si no cuentas con un proveedor de alojamiento, podemos configurar una cuenta para vos en uno de nuestros proveedores preferidos. Te cobraremos un costo único por la instalación del sitio en el servidor y la instalación de sistemas de análisis de tráfico. Las actualizaciones, administración del servidor, y los requisitos de soporte quedaran a tu cuenta y cargo de ahi en adelante.
+
+No somos una empresa proveedora de espacio en internet, y no ofrecemos ni incluimos soporte técnico para el alojamiento de sitios web, email, o ningún otro servicio relacionado al hosting.
+
+Asuntos legales
+
+No podemos garantizar que las funciones contenidas en ninguno de nuestros sitios web permanecerán siempre libres de errores, por eso no podemos garantizarte a vos o a terceras partes por daños, incluidas lucro cesante, pérdidas u otros daños accidentales, consecuentes o especiales que surjan de la operación de o inhabilidad para operar el sitio web y cualquiera página web, incluso si nos has advertido de la posibilidad de dichos daños.
+
+Si alguna parte de este acuerdo va en contra de la ley, o por alguna razón no es legislable, esta parte debe ser ignorada y no debe afectar la validez del resto de las partes.
+
+Al fin, El final
+
+Derechos de autor
+
+Nos garantizas que todo elemento de texto, gráficos, fotos, diseños, marcas y otras obras de arte que nos provees para la inclusión en el sitio web pueden o ser legalmente de su propiedad o contar con un permiso para su uso.
+
+Cuand recibimos su último pago, los derechos de autor serán automáticamente asignados como sigue:
+
+Tu serás dueño de los gráficos y otros elementos gráficos que nosotros hayamos creado para ti en este proyecto. te daremos una copia de todos los archivos y deberás almacenarlos de manera segura ya que no estamos obligados a guardar registros de los mismos en ningún formato nativo en el que fueron creados.
+
+También serás dueño del contenido textual, fotografías y otros datos provistos por vos, a no ser que alguien más lo sea. Nosotros somos dueños del HTML, CSS y otro código y te lo licenciamos a vos para su uso solo en este proyecto.
+
+Nos gusta mostrar nuestro trabajo y compartir lo que hemos aprendido con otras personas, por lo que nos reservamos el derecho de mostrar un link a nuestro trabajo completado como parte de nuestro portfolio, y la de escribir sobre el proyecto en sitios, artículos de revistas y libros sobre diseño web.
+
+Pagos
+
+Estamos seguros que sabés de la importancia , como pequeño negocio, de que canceles las facturas que te enviamos prontamente. Como también sabemos que queremos seguir siendo amigos, acordamos ajustarnos a un cronograma estricto al siguiente cronograma de pagos.
+
+[cronograma de pagos]
+
+Pero donde esta toda esa horrible letra pequeña?
+
+Tal cual como un ticket de estacionamiento, no puedes transferir este contrato a nadie más sin nuestro permiso. Este contrato se mantendrá y no necesitará ser renovado. Si por alguna razón alguna parte de este contrato se vuelve inválida o no practicable por la ley, el resto de las partes seguirá siendo válida.
+
+A pesar del lenguaje simple de este acuerdo, las intenciones son serias y este contrato es un documento legal bajo la exclusiva jurisdicción de la corte de [Argentina].
+
+Linea punteada
+
+Firmante a nombre y cargo de [nombre de empresa]
+Firmante a nombre y cargo de [nombre de cliente]
+Fecha [fecha]
+
+Cada parte deberá firmar arriba y contar con una copia para sus propios registros
